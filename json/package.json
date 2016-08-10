@@ -1,0 +1,9 @@
+{
+  "name": "package.json practice",
+  "author": "Mr. Developer",
+  "private": true,
+  "version": "0.2.0",
+  "dependencies": {
+    "mustache": "^2.2.1"
+  }
+}
